@@ -1,1 +1,1 @@
-# Samsung Galaxy S6 Japan (SC-06G) ROM/TWRP
+# Samsung Galaxy S6 Japan (SC-05G) ROM/TWRP
